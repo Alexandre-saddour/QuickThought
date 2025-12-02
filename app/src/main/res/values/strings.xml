@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">QuickThought</string>
+    
+    <!-- Record Screen -->
+    <string name="record_title">Quick Capture</string>
+    <string name="record_subtitle">Tap to speak your thoughts</string>
+    <string name="record_button_description">Record button</string>
+    <string name="recording_in_progress">Recording…</string>
+    <string name="processing_audio">Processing your thought…</string>
+    
+    <!-- Result Screen -->
+    <string name="results_title">Your Thoughts</string>
+    <string name="no_results">No items yet</string>
+    <string name="transcription_label">Transcription:</string>
+    
+    <!-- Item Types -->
+    <string name="type_task">Task</string>
+    <string name="type_appointment">Appointment</string>
+    <string name="type_idea">Idea</string>
+    
+    <!-- Item Actions -->
+    <string name="add_to_calendar">Add to Calendar</string>
+    <string name="add_to_reminders">Add to Reminders</string>
+    <string name="share_idea">Share</string>
+    <string name="copy_text">Copy</string>
+    
+    <!-- Permissions -->
+    <string name="permission_microphone_title">Microphone Permission Required</string>
+    <string name="permission_microphone_message">QuickThought needs microphone access to record your voice memos.</string>
+    <string name="permission_denied">Permission denied. Please enable microphone in settings.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="open_settings">Open Settings</string>
+    
+    <!-- Errors -->
+    <string name="error_no_api_key">Gemini API key not configured</string>
+    <string name="error_speech_recognition">Speech recognition failed</string>
+    <string name="error_ai_processing">AI processing failed</string>
+    <string name="error_generic">Something went wrong</string>
+    <string name="retry">Retry</string>
+    
+    <!-- Date/Time Formatting -->
+    <string name="due_date_format">Due: %s</string>
+    <string name="appointment_time_format" formatted="false">%s at %s</string>
+    <string name="no_due_date">No due date</string>
+    
+    <!-- Empty States -->
+    <string name="empty_tasks">No tasks yet</string>
+    <string name="empty_appointments">No appointments</string>
+    <string name="empty_ideas">No ideas captured</string>
+</resources>

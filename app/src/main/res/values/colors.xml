@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Crystalline Clarity Color Palette -->
+    
+    <!-- Primary - Deep Indigo -->
+    <color name="primary_indigo">#3949AB</color>
+    <color name="primary_indigo_light">#5C6BC0</color>
+    <color name="primary_indigo_dark">#283593</color>
+    
+    <!-- Accent - Teal -->
+    <color name="accent_teal">#00BFA5</color>
+    <color name="accent_teal_light">#1DE9B6</color>
+    <color name="accent_teal_dark">#00897B</color>
+    
+    <!-- Error - Ruby Red -->
+    <color name="error_ruby">#C62828</color>
+    <color name="error_ruby_light">#EF5350</color>
+    
+    <!-- Surface & Background -->
+    <color name="surface_white">#FFFFFF</color>
+    <color name="surface_light_gray">#F5F7FA</color>
+    <color name="background">#FAFBFC</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_tertiary">#9E9E9E</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    
+    <!-- Type-Specific Colors -->
+    <color name="task_color">#FF6B9D</color>
+    <color name="appointment_color">#4ECDC4</color>
+    <color name="idea_color">#FFD93D</color>
+    
+    <!-- Dividers & Borders -->
+    <color name="divider">#E0E0E0</color>
+    <color name="border_light">#EEEEEE</color>
+    
+    <!-- Recording State -->
+    <color name="recording_active">#FF3B30</color>
+    <color name="recording_pulse">#FFCDD2</color>
+    
+    <!-- Shadows & Overlays -->
+    <color name="shadow">#1A000000</color>
+    <color name="overlay_dark">#80000000</color>
+</resources>
